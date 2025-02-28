@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "DAPL8GYCU4.hr.supersport.sportiDev",
+                "paths": [
+                    "/players/*"
+                ]
+            }
+        ]
+    }
+}
